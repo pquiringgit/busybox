@@ -1,2 +1,2 @@
 FROM busybox
-CMD /bin/echo v1.4
+CMD /bin/echo v1.5
